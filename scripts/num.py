@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+# SPDX-License-Identifier: BSD-3-Clause
+#
+#	Copyright (C) 2021  Ayaka Yui and Ryuichi Ueda. All right reserved.
+
+
 import rospy
 import random
 import math
