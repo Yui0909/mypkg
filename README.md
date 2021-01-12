@@ -39,4 +39,4 @@ numのデータを取り出す
 $ rostopic echo /num
 ~~~
 ## ライセンス
-・BSD 3-Clause License
+BSD 3-Clause License
